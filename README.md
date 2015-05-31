@@ -1,5 +1,7 @@
 # WhatsApp for Desktop
 
+[![Join the chat at https://gitter.im/Aluxian/WhatsApp-Desktop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/WhatsApp-Desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/Aluxian/WhatsApp-Desktop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/WhatsApp-Desktop)
 
 A simple & beautiful app to use WhatsApp on OS X, Windows or Linux desktop. Built with [NW.js](http://nwjs.io/). Not affiliated with WhatsApp nor Facebook.
